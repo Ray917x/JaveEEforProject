@@ -1,0 +1,9 @@
+package Dao;
+
+public class ProjectDao {
+
+	public ProjectDao() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>delete animal</title>
+</head>
+<body>
+<h2>刪除</h2>
+<form method="post" action="../Delete">
+	輸入編號 : <input type="text" name="animal_id" /><p>
+	<input type="submit" value="確定" />
+</form>
+</body>
+</html>

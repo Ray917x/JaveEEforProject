@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Ray917x/test2.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Student &lt;Student@192.168.34.15&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Student &lt;Student@192.168.34.15&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Student\git\test3\test2\.git">
+			<item value="false"/>
+			<item value="Ray &lt;rick8850.tw@gmail.com&gt;"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;test"/>
+			<item value="Ray &lt;rick8850.tw@gmail.com&gt;"/>
+			<item value="9456d5a252b11160a6d67b6cb571dfd20099c4ed"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+		<list key="C:\testgit\aaa\.git">
+			<item value="false"/>
+			<item value="Ray &lt;rick8850.tw@gmail.com&gt;"/>
+			<item value="test&#x0D;&#x0A;"/>
+			<item value="Ray &lt;rick8850.tw@gmail.com&gt;"/>
+			<item value="3c32ed80d88be4a965cfe34fdc7196ba2a77ef86"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+</section>

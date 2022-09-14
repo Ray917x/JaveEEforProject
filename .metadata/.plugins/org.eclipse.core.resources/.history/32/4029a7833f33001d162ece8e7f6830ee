@@ -1,0 +1,90 @@
+package com.Icpan.project;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import javax.naming.NamingException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.lcpan.bean.EmpBean;
+
+
+
+@WebServlet("/AnimalUpdate")
+public class AnimalUpdate extends HttpServlet {
+	
+	private static final long serialVersionUID = 1L;
+	private static final String JDBC_DRIVER = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
+	private static final String url = "jdbc:sqlserver://localhost:1433;databaseName = servdb;trustServerCertificate = true";
+	private static final String sql = "update animal set animal_place=?, animal_kind=?, animal_sex=?,  animal_bodytype=?, animal_colour=?, animal_foundplace=?, animal_remark=? where animal_id=?";
+
+	Connection conn;
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+
+		
+		String empnoNew = (request.getParameter("empnoNew"));
+		String enameNew = request.getParameter("enameNew");
+		String hiredateNew = (request.getParameter("hiredateNew"));
+		String salaryNew = (request.getParameter("salaryNew"));
+		String deptnoNew = (request.getParameter("deptnoNew"));
+		String titleNew = request.getParameter("titleNew");
+
+		try {
+
+			Class.forName(JDBC_DRIVER);
+			conn = DriverManager.getConnection(url, "sa", "passw0rd");
+
+			PreparedStatement stmt = conn.prepareStatement(sql);
+
+			
+			stmt.setString(1, enameNew);
+			stmt.setString(2, hiredateNew);
+			stmt.setInt(3, Integer.parseInt(salaryNew));
+			stmt.setDouble(4, Double.parseDouble(deptnoNew));
+			stmt.setString(5, titleNew);
+			stmt.setString(6, empnoNew);
+			stmt.executeUpdate();
+
+			
+			EmpBean empNew = new EmpBean();
+
+			empNew.setEmpno(empnoNew);
+			empNew.setEname(enameNew);
+			empNew.setHiredate(hiredateNew);
+			empNew.setSalary(salaryNew);
+			empNew.setDeptno(deptnoNew);
+			empNew.setTitle(titleNew);
+
+			request.setAttribute("empNew", empNew);
+
+			
+			request.getRequestDispatcher("/i04/Update.jsp").forward(request, response);
+			stmt.close();
+
+		}catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+
+		doGet(request, response);
+
+	}
+
+}

@@ -1,0 +1,78 @@
+package com.Icpan.project;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.Date;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+
+@WebServlet("/AnimalCreate")
+public class AnimalCreate extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	private static final String JDBC_DRIVER ="com.microsoft.sqlserver.jdbc.SQLServerDriver";
+    private static final String DB_URL="jdbc:sqlserver://localhost:1433;databaseName=servdb;trustServerCertificate=true";
+    private static final String USER = "sa";
+    private static final String PASSWORD = "5tgbnmlp";
+   
+    Connection conn;
+    
+    	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    		request.setCharacterEncoding("UTF-8");
+  
+		String animal_id = request.getParameter("animal_id");
+		String animal_place = request.getParameter("animal_place");
+		String animal_kind = request.getParameter("animal_kind");
+		String animal_sex = request.getParameter("animal_sex");
+		String animal_bodytype = request.getParameter("animal_bodytype");
+		String animal_colour = request.getParameter("animal_colour");
+		String animal_foundplace = request.getParameter("animal_foundplace");
+		String animal_remark = request.getParameter("animal_remark");
+//		Date animal_update = request.getDateHeader("animal_update");
+		System.out.println(animal_id);
+		System.out.println(animal_place);
+		System.out.println(animal_colour);
+		System.out.println(animal_foundplace);
+		try {
+			Class.forName(JDBC_DRIVER);
+			conn = DriverManager.getConnection(DB_URL, USER, PASSWORD);
+			PreparedStatement stmt = conn.prepareStatement("insert into animal values(?,?,?,?,?,?,?,?)");
+			stmt.setDouble(1, Double.valueOf(animal_id));
+			stmt.setString(2, animal_place);
+			stmt.setString(3, animal_kind);
+			stmt.setString(4, animal_sex);
+			stmt.setString(5, animal_bodytype);
+			stmt.setString(6, animal_colour);
+			stmt.setString(7, animal_foundplace);
+			stmt.setString(8, animal_remark);
+//			stmt.setDate(4, animal_update);
+			
+			stmt.execute();
+			stmt.close();
+			
+			request.getRequestDispatcher("/project/AnimalCreate.jsp").forward(request, response);
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		doGet(request, response);
+	}
+
+}

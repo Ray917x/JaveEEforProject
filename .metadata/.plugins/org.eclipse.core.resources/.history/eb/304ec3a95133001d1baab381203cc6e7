@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Base Data</title>
+</head>
+<body>
+    <h1 align="center">Base Data</h1>
+    <div align="center">
+        <form  method="post" action="/JSP/AnimalGetJSTL">
+            輸入ID： <input type="text" name="animal_id">
+            <p></p>
+            <input type="submit" value="依ID搜尋">
+            <button formaction="/JSP/AnimalGetAllJSTL">查詢所有資料</button>
+            <button formaction="AnimalCreate.html">新增資料</button>
+            <button formaction="/JSP/AnimalDelete">刪除</button>
+            <button formaction="AnimalGetUpdate.html">修改資料</button>
+        </form>
+    </div>
+
+    
+
+</body>
+</html>

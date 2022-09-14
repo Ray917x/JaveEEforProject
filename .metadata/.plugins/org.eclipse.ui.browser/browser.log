@@ -1,0 +1,364 @@
+
+8月 17, 2022 10:05:13.225 NEW SESSION
+8月 17, 2022 10:05:13.226 [5592:7856:0817/100513.224:ERROR:device_event_log_impl.cc(214)] [10:05:13.225] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 17, 2022 10:06:11.57 [5592:8892:0817/100611.057:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 17, 2022 12:10:35.40 [13332:10828:0817/121035.039:ERROR:device_event_log_impl.cc(214)] [12:10:35.040] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 17, 2022 12:12:19.915 NEW SESSION
+8月 17, 2022 12:12:19.915 [3984:1208:0817/121219.915:ERROR:device_event_log_impl.cc(214)] [12:12:19.914] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 17, 2022 12:12:28.982 [9692:1704:0817/121228.982:ERROR:device_event_log_impl.cc(214)] [12:12:28.983] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 17, 2022 12:12:47.111 [8684:13288:0817/121247.111:ERROR:device_event_log_impl.cc(214)] [12:12:47.112] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 17, 2022 12:13:45.101 [8684:8948:0817/121345.100:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 17, 2022 15:05:55.873 [6808:4928:0817/150555.872:ERROR:device_event_log_impl.cc(214)] [15:05:55.872] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 17, 2022 15:06:04.639 [11256:14572:0817/150604.639:ERROR:device_event_log_impl.cc(214)] [15:06:04.638] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 17, 2022 15:07:02.622 [11256:5612:0817/150702.621:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 18, 2022 10:26:15.210 NEW SESSION
+8月 18, 2022 10:26:15.210 [10824:13084:0818/102615.209:ERROR:device_event_log_impl.cc(214)] [10:26:15.208] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:02:18.403 [8392:14576:0818/120218.403:ERROR:device_event_log_impl.cc(214)] [12:02:18.403] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:08:24.483 [12664:12528:0818/120824.483:ERROR:device_event_log_impl.cc(214)] [12:08:24.483] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:11:10.289 [13384:7808:0818/121110.289:ERROR:device_event_log_impl.cc(214)] [12:11:10.289] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:14:35.462 [6052:2916:0818/121435.461:ERROR:device_event_log_impl.cc(214)] [12:14:35.462] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:17:07.78 [4120:7092:0818/121707.077:ERROR:device_event_log_impl.cc(214)] [12:17:07.077] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 18, 2022 12:19:51.772 NEW SESSION
+8月 18, 2022 12:19:51.772 [1548:14748:0818/121951.771:ERROR:device_event_log_impl.cc(214)] [12:19:51.772] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:22:41.897 [10636:14196:0818/122241.897:ERROR:device_event_log_impl.cc(214)] [12:22:41.896] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 18, 2022 12:31:33.189 NEW SESSION
+8月 18, 2022 12:31:33.189 [10996:4776:0818/123133.188:ERROR:device_event_log_impl.cc(214)] [12:31:33.189] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:32:31.168 [10996:5528:0818/123231.167:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 18, 2022 12:39:03.723 NEW SESSION
+8月 18, 2022 12:39:03.723 [5496:2512:0818/123903.722:ERROR:device_event_log_impl.cc(214)] [12:39:03.722] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 12:40:01.575 [5496:4548:0818/124001.575:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 18, 2022 12:40:12.375 [5496:2512:0818/124012.374:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+
+8月 18, 2022 15:23:51.799 NEW SESSION
+8月 18, 2022 15:23:51.799 [1120:5108:0818/152351.798:ERROR:device_event_log_impl.cc(214)] [15:23:51.799] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 18, 2022 15:24:49.765 [1120:11108:0818/152449.764:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 19, 2022 09:20:23.433 NEW SESSION
+8月 19, 2022 09:20:23.433 [7112:2616:0819/092023.432:ERROR:device_event_log_impl.cc(214)] [09:20:23.432] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 19, 2022 09:40:41.617 [13656:9176:0819/094041.617:ERROR:device_event_log_impl.cc(214)] [09:40:41.618] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 19, 2022 09:41:39.494 [13656:9212:0819/094139.493:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 19, 2022 09:52:07.390 NEW SESSION
+8月 19, 2022 09:52:07.390 [4912:852:0819/095207.389:ERROR:device_event_log_impl.cc(214)] [09:52:07.390] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 19, 2022 09:53:05.369 [4912:9168:0819/095305.368:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 19, 2022 09:54:00.149 [13712:13172:0819/095400.149:ERROR:device_event_log_impl.cc(214)] [09:54:00.149] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 19, 2022 09:54:58.135 [13712:14552:0819/095458.134:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 19, 2022 09:56:02.315 [13712:13172:0819/095602.315:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+8月 19, 2022 09:56:23.658 [10224:12984:0819/095623.658:ERROR:device_event_log_impl.cc(214)] [09:56:23.658] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 19, 2022 09:57:21.647 [10224:1372:0819/095721.647:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 22, 2022 09:39:30.254 NEW SESSION
+8月 22, 2022 09:39:30.254 [13436:14164:0822/093930.253:ERROR:device_event_log_impl.cc(214)] [09:39:30.253] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 22, 2022 09:40:28.82 [13436:4760:0822/094028.081:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 22, 2022 09:40:43.55 [10416:1468:0822/094043.055:ERROR:device_event_log_impl.cc(214)] [09:40:43.055] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 22, 2022 09:41:41.39 [10416:4936:0822/094141.038:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 22, 2022 10:30:07.226 [8292:10760:0822/103007.226:ERROR:device_event_log_impl.cc(214)] [10:30:07.225] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 22, 2022 10:31:05.218 [8292:13112:0822/103105.217:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 22, 2022 11:23:06.09 [2720:4844:0822/112306.009:ERROR:device_event_log_impl.cc(214)] [11:23:06.009] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 22, 2022 11:24:03.994 [2720:7456:0822/112403.993:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 22, 2022 16:24:04.01 [2720:7920:0822/162404.001:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 22, 2022 16:37:08.317 [2720:12752:0822/163708.316:ERROR:mcs_client.cc(756)] Received close command, resetting connection.
+
+8月 23, 2022 09:10:34.672 NEW SESSION
+8月 23, 2022 09:10:34.672 [2312:5964:0823/091034.671:ERROR:device_event_log_impl.cc(214)] [09:10:34.671] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 10:14:00.489 NEW SESSION
+8月 23, 2022 10:14:00.489 [2636:11800:0823/101400.488:ERROR:device_event_log_impl.cc(214)] [10:14:00.487] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 10:15:20.720 [13332:5636:0823/101520.719:ERROR:device_event_log_impl.cc(214)] [10:15:20.720] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 12:06:56.246 NEW SESSION
+8月 23, 2022 12:06:56.246 [8180:5140:0823/120656.245:ERROR:device_event_log_impl.cc(214)] [12:06:56.246] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 12:07:54.146 [8180:12812:0823/120754.145:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 23, 2022 12:12:48.282 [4608:7596:0823/121248.282:ERROR:device_event_log_impl.cc(214)] [12:12:48.282] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 12:13:46.259 [4608:5356:0823/121346.258:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 23, 2022 14:07:41.752 NEW SESSION
+8月 23, 2022 14:07:41.752 [6032:12436:0823/140741.751:ERROR:device_event_log_impl.cc(214)] [14:07:41.750] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 14:09:34.216 NEW SESSION
+8月 23, 2022 14:09:34.217 [11320:9660:0823/140934.216:ERROR:device_event_log_impl.cc(214)] [14:09:34.216] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 14:10:53.111 NEW SESSION
+8月 23, 2022 14:10:53.111 [9360:14688:0823/141053.110:ERROR:device_event_log_impl.cc(214)] [14:10:53.111] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 14:12:24.671 NEW SESSION
+8月 23, 2022 14:12:24.671 [3240:10920:0823/141224.670:ERROR:device_event_log_impl.cc(214)] [14:12:24.670] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 14:12:48.299 [12100:13564:0823/141248.299:ERROR:device_event_log_impl.cc(214)] [14:12:48.299] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 14:13:42.563 NEW SESSION
+8月 23, 2022 14:13:42.563 [4436:10040:0823/141342.562:ERROR:device_event_log_impl.cc(214)] [14:13:42.562] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 14:14:22.372 [6828:11404:0823/141422.372:ERROR:device_event_log_impl.cc(214)] [14:14:22.373] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 14:15:20.376 [6828:7808:0823/141520.375:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 23, 2022 16:21:46.536 [15040:3224:0823/162146.536:ERROR:device_event_log_impl.cc(214)] [16:21:46.536] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:36:34.409 [5092:10632:0823/163634.409:ERROR:device_event_log_impl.cc(214)] [16:36:34.409] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:37:07.122 [256:14204:0823/163707.122:ERROR:device_event_log_impl.cc(214)] [16:37:07.122] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 23, 2022 16:40:15.77 NEW SESSION
+8月 23, 2022 16:40:15.77 [14872:14352:0823/164015.076:ERROR:device_event_log_impl.cc(214)] [16:40:15.076] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:41:13.72 [14872:11496:0823/164113.071:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 23, 2022 16:43:54.293 [8596:13676:0823/164354.293:ERROR:device_event_log_impl.cc(214)] [16:43:54.292] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:44:07.495 [6664:10124:0823/164407.495:ERROR:device_event_log_impl.cc(214)] [16:44:07.495] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:51:47.653 [14696:9056:0823/165147.652:ERROR:device_event_log_impl.cc(214)] [16:51:47.652] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:53:22.146 [14300:8196:0823/165322.146:ERROR:device_event_log_impl.cc(214)] [16:53:22.146] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:55:31.259 [1440:8880:0823/165531.259:ERROR:device_event_log_impl.cc(214)] [16:55:31.259] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:57:42.396 [4524:12468:0823/165742.396:ERROR:device_event_log_impl.cc(214)] [16:57:42.396] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:58:01.912 [6780:15260:0823/165801.912:ERROR:device_event_log_impl.cc(214)] [16:58:01.912] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:58:22.774 [12892:7988:0823/165822.773:ERROR:device_event_log_impl.cc(214)] [16:58:22.774] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:58:40.277 [13172:10792:0823/165840.277:ERROR:device_event_log_impl.cc(214)] [16:58:40.277] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 16:59:38.261 [13172:10736:0823/165938.261:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 23, 2022 18:35:07.378 [10484:3016:0823/183507.378:ERROR:device_event_log_impl.cc(214)] [18:35:07.378] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 18:36:05.355 [10484:11148:0823/183605.354:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 23, 2022 18:40:59.634 [6776:12348:0823/184059.633:ERROR:device_event_log_impl.cc(214)] [18:40:59.634] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 23, 2022 18:41:57.558 [6776:8464:0823/184157.557:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+8月 24, 2022 09:57:13.650 NEW SESSION
+8月 24, 2022 09:57:13.650 [12576:10120:0824/095713.649:ERROR:device_event_log_impl.cc(214)] [09:57:13.649] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 24, 2022 09:58:11.322 [12576:2960:0824/095811.321:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 24, 2022 12:01:05.185 [2192:13372:0824/120105.185:ERROR:device_event_log_impl.cc(214)] [12:01:05.185] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 24, 2022 12:02:03.168 [2192:1816:0824/120203.168:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8月 24, 2022 13:30:08.768 [2192:13372:0824/133008.768:ERROR:device_event_log_impl.cc(214)] [13:30:08.767] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 元素找不到。 (0x490)
+8月 24, 2022 13:31:30.920 [9608:9072:0824/133130.920:ERROR:device_event_log_impl.cc(214)] [13:31:30.920] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+8月 24, 2022 14:36:33.599 NEW SESSION
+8月 24, 2022 14:36:33.599 [11556:4544:0824/143633.598:ERROR:device_event_log_impl.cc(214)] [14:36:33.598] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 24, 2022 14:43:29.863 [14988:14436:0824/144329.863:ERROR:device_event_log_impl.cc(214)] [14:43:29.863] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+8月 24, 2022 14:43:52.752 [11972:7372:0824/144352.751:ERROR:device_event_log_impl.cc(214)] [14:43:52.751] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9月 08, 2022 01:15:02.769 NEW SESSION
+9月 08, 2022 01:15:02.769 [17540:24212:0908/011502.766:ERROR:device_event_log_impl.cc(214)] [01:15:02.766] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:15:02.770 [17540:24212:0908/011502.767:ERROR:device_event_log_impl.cc(214)] [01:15:02.767] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:15:02.803 [17540:25520:0908/011502.803:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:15:02.803 [17540:25520:0908/011502.803:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:16:18.369 [14424:21000:0908/011618.369:ERROR:device_event_log_impl.cc(214)] [01:16:18.369] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:16:18.370 [14424:21000:0908/011618.370:ERROR:device_event_log_impl.cc(214)] [01:16:18.371] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:16:18.401 [14424:13400:0908/011618.401:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:16:18.402 [14424:13400:0908/011618.401:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 08, 2022 01:22:09.450 NEW SESSION
+9月 08, 2022 01:22:09.450 [17876:24192:0908/012209.449:ERROR:device_event_log_impl.cc(214)] [01:22:09.449] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:22:09.451 [17876:24192:0908/012209.450:ERROR:device_event_log_impl.cc(214)] [01:22:09.449] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:22:09.494 [17876:10468:0908/012209.494:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:22:09.495 [17876:10468:0908/012209.494:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:23:07.226 [17876:10468:0908/012307.225:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:31:34.965 [11724:23416:0908/013134.964:ERROR:device_event_log_impl.cc(214)] [01:31:34.965] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:31:34.966 [11724:23416:0908/013134.965:ERROR:device_event_log_impl.cc(214)] [01:31:34.966] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:31:34.997 [11724:24496:0908/013134.996:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:31:34.997 [11724:24496:0908/013134.997:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:36:27.280 [7336:20756:0908/013627.280:ERROR:device_event_log_impl.cc(214)] [01:36:27.279] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:36:27.281 [7336:20756:0908/013627.281:ERROR:device_event_log_impl.cc(214)] [01:36:27.280] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:36:27.313 [7336:14712:0908/013627.312:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:36:27.313 [7336:14712:0908/013627.313:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:37:40.678 [16672:21876:0908/013740.678:ERROR:device_event_log_impl.cc(214)] [01:37:40.678] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:37:40.679 [16672:21876:0908/013740.679:ERROR:device_event_log_impl.cc(214)] [01:37:40.679] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:37:40.724 [16672:24612:0908/013740.724:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:37:40.725 [16672:24612:0908/013740.724:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:37:54.946 [8924:17852:0908/013754.945:ERROR:device_event_log_impl.cc(214)] [01:37:54.946] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:37:54.948 [8924:17852:0908/013754.948:ERROR:device_event_log_impl.cc(214)] [01:37:54.948] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 01:37:54.992 [8924:24268:0908/013754.992:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:37:54.993 [8924:24268:0908/013754.992:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 01:38:52.758 [8924:17792:0908/013852.758:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 08, 2022 17:40:49.299 NEW SESSION
+9月 08, 2022 17:40:49.299 [25112:588:0908/174049.297:ERROR:device_event_log_impl.cc(214)] [17:40:49.297] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 17:40:49.300 [25112:588:0908/174049.299:ERROR:device_event_log_impl.cc(214)] [17:40:49.299] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 17:40:49.351 [25112:1144:0908/174049.351:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 17:40:49.352 [25112:1144:0908/174049.352:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 17:41:47.203 [25112:1836:0908/174147.201:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 18:16:42.295 [13464:19404:0908/181642.295:ERROR:device_event_log_impl.cc(214)] [18:16:42.295] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 18:16:42.297 [13464:19404:0908/181642.297:ERROR:device_event_log_impl.cc(214)] [18:16:42.297] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 08, 2022 18:16:42.476 [13464:18320:0908/181642.476:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 08, 2022 18:16:42.478 [13464:18320:0908/181642.478:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 11, 2022 21:38:35.622 NEW SESSION
+9月 11, 2022 21:38:35.622 [16352:11560:0911/213835.617:ERROR:device_event_log_impl.cc(214)] [21:38:35.616] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 11, 2022 21:38:35.623 [16352:11560:0911/213835.617:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 1.
+9月 11, 2022 21:38:35.624 [16352:11560:0911/213835.617:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 2, got 1.
+9月 11, 2022 21:38:35.625 [16352:11560:0911/213835.617:ERROR:device_event_log_impl.cc(214)] [21:38:35.616] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_0bda&pid_8153#000001#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+9月 11, 2022 21:38:35.625 [16352:11560:0911/213835.617:ERROR:device_event_log_impl.cc(214)] [21:38:35.616] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 11, 2022 21:38:35.625 [16352:11560:0911/213835.619:ERROR:device_event_log_impl.cc(214)] [21:38:35.618] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 11, 2022 21:38:35.687 [16352:16200:0911/213835.687:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 11, 2022 21:38:35.687 [16352:16200:0911/213835.687:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 11, 2022 21:39:33.385 [16352:18696:0911/213933.384:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 13, 2022 14:38:27.749 NEW SESSION
+9月 13, 2022 14:38:27.749 [21024:21712:0913/143827.747:ERROR:device_event_log_impl.cc(214)] [14:38:27.747] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:38:27.750 [21024:21712:0913/143827.748:ERROR:device_event_log_impl.cc(214)] [14:38:27.748] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:38:27.800 [21024:21588:0913/143827.800:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:38:27.802 [21024:21588:0913/143827.801:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:38:44.409 [7968:7904:0913/143844.409:ERROR:device_event_log_impl.cc(214)] [14:38:44.409] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:38:44.412 [7968:7904:0913/143844.411:ERROR:device_event_log_impl.cc(214)] [14:38:44.411] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:38:44.470 [7968:11960:0913/143844.469:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:38:44.470 [7968:11960:0913/143844.470:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:39:42.197 [7968:11960:0913/143942.196:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:52:31.951 [7968:12172:0913/145231.950:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+9月 13, 2022 14:52:55.335 [20652:10116:0913/145255.334:ERROR:device_event_log_impl.cc(214)] [14:52:55.334] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:52:55.336 [20652:10116:0913/145255.336:ERROR:device_event_log_impl.cc(214)] [14:52:55.336] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:52:55.380 [20652:4060:0913/145255.379:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:52:55.381 [20652:4060:0913/145255.380:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 13, 2022 14:57:20.697 NEW SESSION
+9月 13, 2022 14:57:20.697 [22880:556:0913/145720.696:ERROR:device_event_log_impl.cc(214)] [14:57:20.696] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:57:20.699 [22880:556:0913/145720.697:ERROR:device_event_log_impl.cc(214)] [14:57:20.697] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:57:20.759 [22880:2188:0913/145720.759:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:57:20.760 [22880:2188:0913/145720.759:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:57:41.85 [16592:9456:0913/145741.084:ERROR:device_event_log_impl.cc(214)] [14:57:41.084] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:57:41.86 [16592:9456:0913/145741.085:ERROR:device_event_log_impl.cc(214)] [14:57:41.085] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 14:57:41.143 [16592:24600:0913/145741.143:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 14:57:41.144 [16592:24600:0913/145741.143:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:11:32.681 [20964:7236:0913/151132.680:ERROR:device_event_log_impl.cc(214)] [15:11:32.680] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:11:32.682 [20964:7236:0913/151132.682:ERROR:device_event_log_impl.cc(214)] [15:11:32.682] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:11:32.730 [20964:7800:0913/151132.730:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:11:32.731 [20964:7800:0913/151132.731:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:13:19.284 [9808:20868:0913/151319.282:ERROR:device_event_log_impl.cc(214)] [15:13:19.283] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:13:19.284 [9808:20868:0913/151319.284:ERROR:device_event_log_impl.cc(214)] [15:13:19.284] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:13:19.344 [9808:8428:0913/151319.343:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:13:19.345 [9808:8428:0913/151319.344:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:14:17.149 [9808:8428:0913/151417.149:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:15:21.373 [23480:17932:0913/151521.372:ERROR:device_event_log_impl.cc(214)] [15:15:21.373] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:15:21.374 [23480:17932:0913/151521.373:ERROR:device_event_log_impl.cc(214)] [15:15:21.374] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:15:21.436 [23480:21964:0913/151521.436:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:15:21.437 [23480:21964:0913/151521.437:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:15:37.26 [24428:22816:0913/151537.025:ERROR:device_event_log_impl.cc(214)] [15:15:37.025] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:15:37.27 [24428:22816:0913/151537.026:ERROR:device_event_log_impl.cc(214)] [15:15:37.026] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:15:37.153 [24428:16412:0913/151537.153:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:15:37.154 [24428:16412:0913/151537.153:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:17:48.971 [15080:13256:0913/151748.970:ERROR:device_event_log_impl.cc(214)] [15:17:48.970] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:17:48.973 [15080:13256:0913/151748.972:ERROR:device_event_log_impl.cc(214)] [15:17:48.972] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:17:49.27 [15080:3288:0913/151749.027:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:17:49.28 [15080:3288:0913/151749.027:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:18:00.491 [24540:5636:0913/151800.491:ERROR:device_event_log_impl.cc(214)] [15:18:00.491] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:18:00.493 [24540:5636:0913/151800.493:ERROR:device_event_log_impl.cc(214)] [15:18:00.493] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 15:18:00.546 [24540:13452:0913/151800.545:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:18:00.546 [24540:13452:0913/151800.546:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 15:18:58.323 [24540:13452:0913/151858.322:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:07:51.430 [17964:144:0913/160751.430:ERROR:device_event_log_impl.cc(214)] [16:07:51.430] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:07:51.431 [17964:144:0913/160751.431:ERROR:device_event_log_impl.cc(214)] [16:07:51.431] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:07:51.477 [17964:12984:0913/160751.476:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:07:51.477 [17964:12984:0913/160751.477:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:08:43.180 [19180:9636:0913/160843.180:ERROR:device_event_log_impl.cc(214)] [16:08:43.180] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:08:43.181 [19180:9636:0913/160843.181:ERROR:device_event_log_impl.cc(214)] [16:08:43.181] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:08:43.228 [19180:9232:0913/160843.228:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:08:43.228 [19180:9232:0913/160843.228:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:09:15.571 [6564:24340:0913/160915.571:ERROR:device_event_log_impl.cc(214)] [16:09:15.570] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:09:15.573 [6564:24340:0913/160915.572:ERROR:device_event_log_impl.cc(214)] [16:09:15.572] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:09:15.626 [6564:13768:0913/160915.626:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:09:15.627 [6564:13768:0913/160915.626:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:11:18.931 [9716:15576:0913/161118.931:ERROR:device_event_log_impl.cc(214)] [16:11:18.931] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:11:18.933 [9716:15576:0913/161118.932:ERROR:device_event_log_impl.cc(214)] [16:11:18.932] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:11:18.981 [9716:23528:0913/161118.981:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:11:18.982 [9716:23528:0913/161118.981:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:13:17.422 [9000:8536:0913/161317.422:ERROR:device_event_log_impl.cc(214)] [16:13:17.422] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:13:17.423 [9000:8536:0913/161317.423:ERROR:device_event_log_impl.cc(214)] [16:13:17.423] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:13:17.480 [9000:22672:0913/161317.480:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:13:17.481 [9000:22672:0913/161317.480:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:15:03.444 [23700:25188:0913/161503.443:ERROR:device_event_log_impl.cc(214)] [16:15:03.444] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:15:03.446 [23700:25188:0913/161503.444:ERROR:device_event_log_impl.cc(214)] [16:15:03.445] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:15:03.503 [23700:14808:0913/161503.502:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:15:03.503 [23700:14808:0913/161503.503:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:16:01.226 [23700:14808:0913/161601.225:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:19:02.53 [8748:3236:0913/161902.053:ERROR:device_event_log_impl.cc(214)] [16:19:02.053] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:19:02.55 [8748:3236:0913/161902.054:ERROR:device_event_log_impl.cc(214)] [16:19:02.055] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:19:02.95 [8748:4232:0913/161902.095:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:19:02.96 [8748:4232:0913/161902.095:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 13, 2022 16:19:38.366 NEW SESSION
+9月 13, 2022 16:19:38.366 [15156:18216:0913/161938.364:ERROR:device_event_log_impl.cc(214)] [16:19:38.365] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:19:38.367 [15156:18216:0913/161938.365:ERROR:device_event_log_impl.cc(214)] [16:19:38.366] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:19:38.417 [15156:9312:0913/161938.417:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:19:38.419 [15156:9312:0913/161938.417:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 13, 2022 16:21:59.710 NEW SESSION
+9月 13, 2022 16:21:59.710 [4768:1916:0913/162159.708:ERROR:device_event_log_impl.cc(214)] [16:21:59.709] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:21:59.711 [4768:1916:0913/162159.710:ERROR:device_event_log_impl.cc(214)] [16:21:59.710] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:21:59.778 [4768:25348:0913/162159.778:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:21:59.779 [4768:25348:0913/162159.778:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:22:37.964 [6520:21092:0913/162237.963:ERROR:device_event_log_impl.cc(214)] [16:22:37.964] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:22:37.965 [6520:21092:0913/162237.964:ERROR:device_event_log_impl.cc(214)] [16:22:37.965] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:22:38.23 [6520:11996:0913/162238.022:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:22:38.24 [6520:11996:0913/162238.023:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:23:35.784 [6520:11996:0913/162335.783:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:46:00.795 [13260:13884:0913/164600.794:ERROR:device_event_log_impl.cc(214)] [16:46:00.794] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:46:00.797 [13260:13884:0913/164600.796:ERROR:device_event_log_impl.cc(214)] [16:46:00.796] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:46:00.847 [13260:25060:0913/164600.846:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:46:00.848 [13260:25060:0913/164600.847:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:46:11.920 [12884:5508:0913/164611.919:ERROR:device_event_log_impl.cc(214)] [16:46:11.919] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:46:11.921 [12884:5508:0913/164611.921:ERROR:device_event_log_impl.cc(214)] [16:46:11.921] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:46:11.972 [12884:22136:0913/164611.972:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:46:11.973 [12884:22136:0913/164611.973:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:48:28.122 [17492:11524:0913/164828.121:ERROR:device_event_log_impl.cc(214)] [16:48:28.121] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:48:28.123 [17492:11524:0913/164828.122:ERROR:device_event_log_impl.cc(214)] [16:48:28.122] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:48:28.207 [17492:24096:0913/164828.206:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:48:28.208 [17492:24096:0913/164828.207:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:52:23.167 [9056:20036:0913/165223.167:ERROR:device_event_log_impl.cc(214)] [16:52:23.167] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:52:23.169 [9056:20036:0913/165223.168:ERROR:device_event_log_impl.cc(214)] [16:52:23.168] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 16:52:23.233 [9056:9508:0913/165223.232:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:52:23.234 [9056:9508:0913/165223.233:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 16:53:20.953 [9056:22864:0913/165320.952:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 13, 2022 17:06:17.512 NEW SESSION
+9月 13, 2022 17:06:17.512 [21272:2668:0913/170617.511:ERROR:device_event_log_impl.cc(214)] [17:06:17.511] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 17:06:17.514 [21272:2668:0913/170617.512:ERROR:device_event_log_impl.cc(214)] [17:06:17.512] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 17:06:17.556 [21272:13564:0913/170617.556:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 17:06:17.557 [21272:13564:0913/170617.556:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 17:07:15.274 [21272:2168:0913/170715.273:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 13, 2022 18:49:47.367 NEW SESSION
+9月 13, 2022 18:49:47.367 [20780:740:0913/184947.366:ERROR:device_event_log_impl.cc(214)] [18:49:47.366] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 18:49:47.368 [20780:740:0913/184947.366:ERROR:device_event_log_impl.cc(214)] [18:49:47.367] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 13, 2022 18:49:47.446 [20780:2552:0913/184947.446:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 18:49:47.447 [20780:2552:0913/184947.446:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 13, 2022 18:50:45.137 [20780:2552:0913/185045.137:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 14, 2022 16:20:57.796 NEW SESSION
+9月 14, 2022 16:20:57.796 [25392:18016:0914/162057.793:ERROR:device_event_log_impl.cc(214)] [16:20:57.793] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:20:57.797 [25392:18016:0914/162057.795:ERROR:device_event_log_impl.cc(214)] [16:20:57.795] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:20:57.826 [25392:12628:0914/162057.826:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:20:57.828 [25392:12628:0914/162057.826:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:21:55.504 [25392:12628:0914/162155.504:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:25:28.706 [26372:19176:0914/162528.705:ERROR:device_event_log_impl.cc(214)] [16:25:28.705] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:25:28.707 [26372:19176:0914/162528.706:ERROR:device_event_log_impl.cc(214)] [16:25:28.706] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:25:28.749 [26372:924:0914/162528.749:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:25:28.750 [26372:924:0914/162528.749:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:26:26.453 [26372:572:0914/162626.452:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:27:17.178 [16036:26164:0914/162717.178:ERROR:device_event_log_impl.cc(214)] [16:27:17.178] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:27:17.179 [16036:26164:0914/162717.178:ERROR:device_event_log_impl.cc(214)] [16:27:17.178] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:27:17.243 [16036:21040:0914/162717.243:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:27:17.243 [16036:21040:0914/162717.243:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:28:15.04 [16036:26216:0914/162815.004:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:34:02.111 [26516:6768:0914/163402.111:ERROR:device_event_log_impl.cc(214)] [16:34:02.111] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:34:02.112 [26516:6768:0914/163402.112:ERROR:device_event_log_impl.cc(214)] [16:34:02.112] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:34:02.153 [26516:6644:0914/163402.152:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:34:02.153 [26516:6644:0914/163402.153:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:34:40.499 [26244:16224:0914/163440.498:ERROR:device_event_log_impl.cc(214)] [16:34:40.498] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:34:40.499 [26244:16224:0914/163440.499:ERROR:device_event_log_impl.cc(214)] [16:34:40.499] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:34:40.527 [26244:17520:0914/163440.527:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:34:40.528 [26244:17520:0914/163440.527:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:35:09.281 [10444:15428:0914/163509.281:ERROR:device_event_log_impl.cc(214)] [16:35:09.281] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:35:09.281 [10444:15428:0914/163509.281:ERROR:device_event_log_impl.cc(214)] [16:35:09.282] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:35:09.343 [10444:24384:0914/163509.343:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:35:09.345 [10444:24384:0914/163509.344:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:36:07.47 [10444:24384:0914/163607.046:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9月 14, 2022 16:40:23.673 NEW SESSION
+9月 14, 2022 16:40:23.673 [1672:18532:0914/164023.671:ERROR:device_event_log_impl.cc(214)] [16:40:23.671] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:40:23.673 [1672:18532:0914/164023.672:ERROR:device_event_log_impl.cc(214)] [16:40:23.672] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:40:23.705 [1672:9692:0914/164023.705:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:40:23.706 [1672:9692:0914/164023.705:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:41:07.819 [23416:6784:0914/164107.819:ERROR:device_event_log_impl.cc(214)] [16:41:07.820] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:41:07.821 [23416:6784:0914/164107.820:ERROR:device_event_log_impl.cc(214)] [16:41:07.821] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:41:07.854 [23416:17768:0914/164107.854:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:41:07.855 [23416:17768:0914/164107.854:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:42:04.297 [22912:25840:0914/164204.296:ERROR:device_event_log_impl.cc(214)] [16:42:04.297] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:42:04.297 [22912:25840:0914/164204.297:ERROR:device_event_log_impl.cc(214)] [16:42:04.297] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 16:42:04.328 [22912:3740:0914/164204.327:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:42:04.328 [22912:3740:0914/164204.328:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 16:43:01.923 [22912:26328:0914/164301.922:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 17:02:47.464 [3064:924:0914/170247.462:ERROR:device_event_log_impl.cc(214)] [17:02:47.462] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 17:02:47.465 [3064:924:0914/170247.463:ERROR:device_event_log_impl.cc(214)] [17:02:47.463] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+9月 14, 2022 17:02:50.141 [3064:7636:0914/170250.138:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9月 14, 2022 17:02:50.160 [3064:7636:0914/170250.158:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

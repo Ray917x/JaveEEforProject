@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>Insert Animals data</title>
+</head>
+<body>
+<h2>新增資料</h2>
+<form method="post" action="/JSP/AnimalCreate">
+
+ 輸入編號 : <input type="text" name="animal_id" /><p>
+ 輸入地點: <input type="text" name="animal_place" /><p>
+ 輸入種類: <input type="text" name="animal_kind" /><p>
+ 輸入性別: <input type="text" name="animal_sex" /><p>
+ 輸入體型: <input type="text" name="animal_bodytype" /><p>
+ 輸入顏色: <input type="text" name="animal_colour" /><p>
+ 輸入發現地點: <input type="text" name="animal_foundplace" /><p>
+ 輸入註記: <input type="text" name="animal_remark" /><p>
+ 
+ <input type="submit" value="確定" />
+</form>
+</body>
+</html>

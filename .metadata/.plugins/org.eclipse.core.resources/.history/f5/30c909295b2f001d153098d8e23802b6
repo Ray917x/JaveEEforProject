@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Get Animal data</title>
+</head>
+<body>
+<h2>顯示資料</h2>
+<form method="post" action="/AnimalJSTL">
+	輸入編號 : <input type="text" name="animal_id" /><p>
+	<input type="submit" value="確定" />
+</form>
+</body>
+</html>
